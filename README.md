@@ -7,6 +7,12 @@ iOS 개발자에 관한 정보들을 모으는 레포
 ### OKKY
 * ios 개발자가 되기 위해서 필요한 스킬(질문) - https://okky.kr/article/694873
 
+### NAVER
+
+* NAVER Tech Talk: iOS 밋업(2021년 3월) - https://d2.naver.com/news/2206864
+
+* NAVER Tech Talk: iOS 밋업(2019년 6월) - https://d2.naver.com/news/0427227
+
 ### GitHub
 
 * Swift-30-Projects - https://github.com/soapyigu/Swift-30-Projects
